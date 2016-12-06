@@ -10,4 +10,7 @@ public class Util {
 		return new File(basePath+File.separator+"diagrams").list();
 	}
 
+	public void test() {
+
+	}
 }
